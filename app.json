@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Proveedores",
+    "slug": "Proveedores",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/ProveedoresLogoNuevo.png",
+    "splash": {
+      "image": "./assets/ProveedoresLogoNuevo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/ProveedoresLogoNuevo.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "versionCode": 2,
+      "permissions": ["android.permission.CAMERA", "android.permission.READ_CONTACTS", "android.permission.READ_PHONE_STATE", " android.permission.RECORD_AUDIO"],
+      "package": "com.cacaoft.cacaoftv2"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png" 
+    },
+    "description": ""
+  }
+}

@@ -1,0 +1,12 @@
+NativeBase: es una biblioteca de componentes accesible para dispositivos móviles que permite crear un sistema de diseño coherente en Android, iOS y la web.
+
+Swiper: componente para crear carousel de imagenes
+
+React Navigation: es una biblioteca independiente que le permite implementar la funcionalidad de navegación en una aplicación React Native.
+
+react-native-gesture-handler: proporciona API de gestión de gestos nativas para crear las mejores experiencias táctiles posibles en React Native. Con esta biblioteca, los gestos ya no están controlados por el sistema de respuesta JS, sino que se reconocen y se rastrean en el hilo de la interfaz de usuario. Hace que las interacciones táctiles y el seguimiento de gestos no solo sean fluidos, sino también confiables y deterministas.
+
+react-native-reanimated: proporciona una API que simplifica enormemente el proceso de creación de animaciones fluidas, potentes y fáciles de mantener.
+
+react-native-screens: proporciona primitivas nativas para representar pantallas en lugar de <View>componentes simples con el fin de aprovechar mejor el comportamiento del sistema operativo y las optimizaciones en torno a las pantallas. Los autores de bibliotecas utilizan esta capacidad y es poco probable que la mayoría de los desarrolladores de aplicaciones la utilicen directamente.
+

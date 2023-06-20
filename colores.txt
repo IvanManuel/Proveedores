@@ -1,0 +1,5 @@
+#f2f2f2  gris
+#03bafc  azul claro
+#a0e1eb  verde agua claro
+#ec91e63  rosado
+#007aff azul 
